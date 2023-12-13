@@ -1,0 +1,221 @@
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainForm.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informationRoomsForm.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informationRoomsForm.resources
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informationRoomsForm.resources
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainForm.resources
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.filterRoomForm.resources
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.filterStudentForm.resources
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informationRoomsForm.resources
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainForm.resources
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\adminkoop\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.filterRoomForm.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.filterStudentForm.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informationRoomsForm.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainForm.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.dll
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.xml
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.xml
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Программирование\Копии проектов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informationRoomsForm.resources
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainForm.resources
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.dll
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.pdb
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.xml
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.authenticationForm.resources
+B:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.salesInformationForm.resources
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.dll
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.dll
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.pdb
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.xml
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelDataReader.DataSet.xml
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.authenticationForm.resources
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informationRoomsForm.resources
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainForm.resources
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.salesInformationForm.resources
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\АИС К\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
